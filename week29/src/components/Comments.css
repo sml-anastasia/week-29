@@ -1,0 +1,17 @@
+.comment-box {
+  width: 50%;
+  margin: 0 auto;
+  text-align: start;
+}
+
+.comment-form {
+  display: flex;
+}
+
+.plain-comment {
+  color: black;
+}
+
+.new-comment {
+  color: green;
+}
